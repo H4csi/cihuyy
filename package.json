@@ -1,7 +1,7 @@
 {
-    "name": "𝑫𝒂𝒏𝒛𝒅𝒅𝒚𝒚✓",
+    "name": "kunun",
     "version": "1.3",
-    "description": "TsunadeModeTele",
+    "description": "kununTsunamiPilMiskin",
     "main": "tsunade.js",
     "scripts": {
         "start": "node tsunade.js"
